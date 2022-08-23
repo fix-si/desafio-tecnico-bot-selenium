@@ -34,6 +34,9 @@ Deverá ser feito o download do arquivo com extensão `.pdf`
 ### OUTPUT
 - criar uma pasta dentro do diretório do programa e definir essa pasta como download padrão.
   - todos os pdf's baixados deverão estar nessa pasta.
+  
+- cada pdf deverá ser renomeado de acordo com o nome que está na planilha; referência: coluna C "nome"
+  - exemplo: SILVA.pdf
 
 
 ### TOOLS
