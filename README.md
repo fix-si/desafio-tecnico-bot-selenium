@@ -47,7 +47,8 @@ Deverá ser feito o download do arquivo com extensão `.pdf`
     
 #### extrair dados pdf
 - deverá ser extraído o dado: **valor geral** de cada pdf baixado. Segue imagem de como a informação **valor geral** se encontra no pdf
-![image](https://user-images.githubusercontent.com/92794401/186235946-ef4472f2-9b06-4c27-92cc-5e93288ec108.png)
+
+    ![image](https://user-images.githubusercontent.com/92794401/186241633-dd985818-8208-4094-9076-5ce6c05a1e49.png)
 
 
 - após extrair, a informação deve ser escrita na coluna "valor total"(*coluna D*) da planilha
